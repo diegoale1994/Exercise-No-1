@@ -1,4 +1,4 @@
-package com.rexsoft.clinic.app;
+package com.rexsoft.ejercicioNo1.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
